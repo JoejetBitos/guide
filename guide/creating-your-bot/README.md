@@ -24,7 +24,7 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
-client.login('your-token-goes-here');
+client.login(NzgzNTQ3Njc5NjUyMTg0MDc1.X8cVpA.9QV9kazSk6CEGw0nOFynAtu_IDY);
 ```
 
 Head back to your console window, type in `node your-file-name.js`, and press enter. If you see the `Ready!` message after a few seconds, you're good to go! If not, try going back a few steps and make sure you followed everything correctly.
